@@ -94,3 +94,4 @@ after_success:
 
 notifications:
   email: false
+
